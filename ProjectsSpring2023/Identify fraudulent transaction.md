@@ -1,4 +1,4 @@
-Project Name: [Identify fraudulent transaction](The url of the repository)
+Project Name: [Identify fraudulent transaction](ProjectsSpring2023/Identify fraudulent transaction.md)
 
 Project type: Data analysis
 
